@@ -28,6 +28,9 @@
     left: 23px;
     top: 25px;
     text-align: center;
+    font-size: 20px;
+    color: brown;
+    font-weight: 700;
 }
 .searchbar {
     border: 5px solid black;
@@ -37,6 +40,9 @@
     left: 150px;
     top: 25px;
     text-align: center;
+    font-size: 20px;
+    color: brown;
+    font-weight: 700;
 }
 .parentsection {
     border: 5px solid black;
@@ -71,6 +77,9 @@
     top: 20px;
     text-align: center;
     padding-top: 3%;
+    font-size: 20px;
+    color: brown;
+    font-weight: 700;
 }
 .displaydescription {
     border: 5px solid black;
@@ -81,6 +90,9 @@
     top: 125px;
     text-align: center;
     padding-top: 3%;
+    font-size: 20px;
+    color: brown;
+    font-weight: 700;
 }
 .asidearticle1 {
     border: 5px solid black;
