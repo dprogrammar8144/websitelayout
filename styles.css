@@ -1,0 +1,121 @@
+@media (min-width: 319) and (max-width: 480px) {
+    
+}
+@media (min-width: 481px) and (max-width: 1200px) {
+
+}
+@media (min-with: 1201px) and (max-width: 1600px) {
+    
+}
+.parent {
+    border: 5px solid black;
+    width: 100%;
+    height: 100%;
+}
+.header {
+    border: 5px solid black;
+    width: 95%;
+    height: 15%;
+    position: relative;
+    left: 23px;
+    top: 20px;
+}
+.logo {
+    border: 5px solid black;
+    width: 100px;
+    height: 20px;
+    position: relative;
+    left: 23px;
+    top: 25px;
+    text-align: center;
+}
+.searchbar {
+    border: 5px solid black;
+    width: 400px;
+    height: 20px;
+    position: absolute;
+    left: 150px;
+    top: 25px;
+    text-align: center;
+}
+.parentsection {
+    border: 5px solid black;
+    width: 95%;
+    height: 50%;
+    position: relative;
+    left: 23px;
+    top: 50px;
+}
+.article {
+    border: 5px solid black;
+    width: 60%;
+    height: 80%;
+    position: relative;
+    left: 23px;
+    top: 20px;
+}
+.aside {
+    border: 5px solid black;
+    width: 32%;
+    height: 80%;
+    position: absolute;
+    left: 65%;
+    top: 20px;
+}
+.displayvideo {
+    border: 5px solid black;
+    width: 80%;
+    height: 23%;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    text-align: center;
+    padding-top: 3%;
+}
+.displaydescription {
+    border: 5px solid black;
+    width: 80%;
+    height: 23%;
+    position: absolute;
+    left: 20px;
+    top: 125px;
+    text-align: center;
+    padding-top: 3%;
+}
+.asidearticle1 {
+    border: 5px solid black;
+    width: 85%;
+    height: 20%;
+    position: absolute;
+    left: 25px;
+    top: 20px;
+}
+.asidearticle2 {
+    border: 5px solid black;
+    width: 85%;
+    height: 20%;
+    position: absolute;
+    left: 25px;
+    top: 80px;
+}
+.asidearticle3 {
+    border: 5px solid black;
+    width: 85%;
+    height: 20%;
+    position: absolute;
+    left: 25px;
+    top: 140px;
+}
+.displayfooter {
+    border: 5px solid black;
+    width: 94%;
+    height: 10%;
+    position: absolute;
+    left: 35px; 
+    top: 82%;
+    text-align: center;
+    padding-top: 25px;
+    font-weight: 700;
+    font-size: 20px;
+    color: brown;
+}
